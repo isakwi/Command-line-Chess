@@ -1,0 +1,3 @@
+/Users/isakwikman/Documents/Dokument – Isaks MacBook Pro/C++ Projects/Chess Project/build/CMakeFiles/chess.dir
+/Users/isakwikman/Documents/Dokument – Isaks MacBook Pro/C++ Projects/Chess Project/build/CMakeFiles/edit_cache.dir
+/Users/isakwikman/Documents/Dokument – Isaks MacBook Pro/C++ Projects/Chess Project/build/CMakeFiles/rebuild_cache.dir
