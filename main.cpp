@@ -1,6 +1,7 @@
 #include <iostream>
 
 int main(){
-    std::cout << "Hello world" << std::endl;
+    ChessGameEngine game();
+    game.start()
     return 0;
 }
